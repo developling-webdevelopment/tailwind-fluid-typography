@@ -1,4 +1,6 @@
-<img alt="Tailwind Fluid Typography" width="100" src="./.github/logo.png">
+# Fork
+FORKED FROM https://github.com/craigrileyuk/tailwind-fluid-typography
+Changed the index.js so base-font is also fluid
 
 # Tailwind Fluid Typography
 
